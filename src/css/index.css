@@ -552,6 +552,7 @@ section .title::after {
   margin-bottom: 10px;
   border-radius: .5rem;
   justify-self: center;
+  height: auto;
 }
 
 .portfolio-title {
